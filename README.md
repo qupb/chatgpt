@@ -20,7 +20,7 @@
 
 ```bash
 git clone https://github.com/qupb/chatgpt-66.git
-cd chatgpt
+cd chatgpt-66
 ```
 
 运行
