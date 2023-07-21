@@ -19,8 +19,8 @@
 克隆项目
 
 ```bash
-git clone https://github.com/qupb/chatgpt-66.git
-cd chatgpt-66
+git clone https://github.com/qupb/chatgpt.git
+cd chatgpt
 ```
 
 运行
