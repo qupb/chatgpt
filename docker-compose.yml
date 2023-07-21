@@ -28,7 +28,7 @@ services:
       - TZ=Asia/Shanghai
       - MYSQL_DATABASE=chatgpt
       - MYSQL_USER=chatgpt
-      - MYSQL_PASSWORD=chatgpt
+      - MYSQL_PASSWORD=198704
       - MYSQL_ROOT_PASSWORD=admin
       - MYSQL_ROOT_HOST="%"
     command: mysqld
