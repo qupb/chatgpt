@@ -19,7 +19,7 @@
 克隆项目
 
 ```bash
-git clone https://github.com/rita-iot/chatgpt.git
+git clone https://github.com/qupb/chatgpt-66.git
 cd chatgpt
 ```
 
