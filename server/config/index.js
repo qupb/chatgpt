@@ -8,7 +8,7 @@ function getConfig(key) {
             host: 'mysql',
             port: 3306,
             username: 'chatgpt',
-            password: 'chatgpt',
+            password: '198704',
             database: 'chatgpt',
             timezone: '+08:00',
             dialectOptions: {
